@@ -23,7 +23,7 @@
 
 <a href="https://fb.com/arvind kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arvind kumar" height="30" width="40" /></a>
 
-<a href="https://instagram.com/__i__am__avi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__i__am__avi__" height="30" width="40" /></a>
+<a href="https://instagram.com/__i__m__avi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__i__m__avi__" height="30" width="40" /></a>
 
 </p>
 
